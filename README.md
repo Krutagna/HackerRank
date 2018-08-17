@@ -1,3 +1,3 @@
 # HackerRank
 
-# Few Challenges solved in HackerRank
+Few Challenges solved in HackerRank
